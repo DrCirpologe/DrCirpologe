@@ -13,33 +13,33 @@ As a Junior App Developer, I am passionate about creating modern cross-platform 
 
 ---
 
+# 📄 PaperLess – NFC-Powered Document & Asset Management App
 
-# 📂 PaperLess – NFC-gestützte Dokumenten- & Asset-Management-App
-**Mein aktuelles Projekt:**  
-PaperLess ist eine moderne App zur Verwaltung von Dokumenten und Gegenständen, entwickelt mit **Kotlin Multiplatform (KMP)**.  
+**My current project:**  
+PaperLess is a modern app for managing documents and assets, developed with **Kotlin Multiplatform (KMP)**.
 
-## 🌐 Cross-Plattform
-Gemeinsame Geschäftslogik für **Android & iOS**
+## 🌐 Cross-Platform
+Shared business logic for **Android & iOS**
 
-## 🛠️ Tech-Stack
+## 🛠️ Tech Stack
 KMP · Ktor · Koin · Coroutines · SwiftUI · Jetpack Compose · Firebase (Firestore & Authentication)
 
-## 🎯 Ziel
-PaperLess ermöglicht Nutzern eine **effiziente Verwaltung von Dokumenten und Gegenständen**.  
-Funktionen im Überblick:  
+## 🎯 Goal
+PaperLess enables users to **efficiently manage documents and assets**.  
+Key features include:
 
-- **Dokumentenmanagement:**  
-  - Erstellen von **Ordnern** mit klarer Struktur  
-  - Speichern von **PDFs, Fotos, Videos und Texten**  
-  - Umwandeln von Fotos aus der Galerie in PDFs  
+- **Document Management:**  
+  - Create **folders** with a clear structure  
+  - Store **PDFs, photos, videos, and text**  
+  - Convert photos from the gallery into PDFs  
 
-- **NFC-gestützte Gegenstandsverwaltung:**  
-  - **Zuordnung, Verfolgung und Verwaltung** von Gegenständen über NFC-Tags  
-  - Schnelles Öffnen oder Finden von Gegenständen durch NFC-Erkennung  
-  - Ideal für Fahrzeuge, Werkzeuge, Schlüssel oder andere Assets  
-  - **Intuitive Bedienung:** Alle Aktionen direkt in der App, ohne komplizierte Schritte  
+- **NFC-Based Asset Management:**  
+  - **Assign, track, and manage** items using NFC tags  
+  - Quickly open or locate assets through NFC detection  
+  - Ideal for vehicles, tools, keys, or other assets  
+  - **Intuitive Operation:** All actions are performed directly in the app, without complicated steps  
 
-PaperLess kombiniert **digitale Dokumentenverwaltung** und **NFC-basierte Asset-Tracking-Funktionalität** in einer App für maximale Effizienz.
+PaperLess combines **digital document management** with **NFC-based asset tracking** in a single app for maximum efficiency.
 
 
 ---
