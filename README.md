@@ -65,4 +65,4 @@ PaperLess kombiniert **digitale Dokumentenverwaltung** und **NFC-basierte Asset-
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oguzhan-cirpan-b8098533b)
