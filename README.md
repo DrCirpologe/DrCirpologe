@@ -1,9 +1,7 @@
-# 👋 Hallo, ich bin Oguzhan!
+# 👋 Hi, I’m Oguzhan!
 
-Als Junior App Developer konzentriere ich mich leidenschaftlich auf die Entwicklung moderner Cross-Plattform-Anwendungen mit Kotlin Multiplatform (KMP). Seit Januar 2025 nehme ich am Advanced Experts Program teil, in dem ich mein Wissen gezielt vertiefe und mich intensiv mit der plattformübergreifenden Entwicklung beschäftige.
+As a Junior App Developer, I am passionate about creating modern cross-platform applications using Kotlin Multiplatform (KMP). Since January 2025, I have been participating in the Advanced Experts Program, where I have been deepening my knowledge and focusing intensively on cross-platform development.
 
+💡 I particularly enjoy designing robust and scalable software architectures and connecting shared business logic with intuitive user interfaces on Android (Jetpack Compose) and iOS (SwiftUI). I build on a solid technical foundation and practical experience with KMP, Ktor, Koin, Coroutines, and Firebase (Firestore & Authentication).
 
-💡 Besonders spannend finde ich es, robuste und skalierbare Software-Architekturen zu gestalten und gemeinsame Geschäftslogik mit intuitiven Benutzeroberflächen auf Android (Jetpack Compose) und iOS (SwiftUI) zu verbinden. Dabei greife ich auf ein solides technisches Fundament sowie praktische Erfahrung mit KMP, Ktor, Koin, Coroutines und Firebase (Firestore & Authentication) zurück.
-
-
-✨ Ich lerne schnell, arbeite mich gerne in neue Themen ein und habe Freude daran, gemeinsam im Team Lösungen zu entwickeln. Mein Ziel ist es, Apps zu realisieren, die nicht nur zuverlässig und leistungsstark sind, sondern auch durch ihre Benutzerfreundlichkeit überzeugen.
+✨ I learn quickly, enjoy exploring new topics, and thrive on collaborating with teams to develop effective solutions. My goal is to build apps that are not only reliable and performant but also highly user-friendly.
