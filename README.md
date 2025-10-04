@@ -1,4 +1,4 @@
-#👋 Hallo, ich bin Oguzhan!
+# 👋 Hallo, ich bin Oguzhan!
 
 Als Junior App Developer konzentriere ich mich leidenschaftlich auf die Entwicklung moderner Cross-Plattform-Anwendungen mit Kotlin Multiplatform (KMP). Seit Januar 2025 nehme ich am Advanced Experts Program teil, in dem ich mein Wissen gezielt vertiefe und mich intensiv mit der plattformübergreifenden Entwicklung beschäftige.
 
