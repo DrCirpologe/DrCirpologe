@@ -31,6 +31,8 @@ Mein Ziel ist es, Apps zu realisieren, die nicht nur zuverlässig und leistungss
 ---
 
 # 📄 PaperLess – NFC-gestützte Dokumenten- & Asset-Management-App
+[![GitHub](https://img.shields.io/badge/GitHub-DrCirpologe/DrCirpologe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DrCirpologe)
+
 
 **Mein aktuelles Projekt:**  
 PaperLess ist eine moderne App zur Verwaltung von Dokumenten und Gegenständen, entwickelt mit **Kotlin Multiplatform (KMP)**.  
