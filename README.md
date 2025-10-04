@@ -1,10 +1,12 @@
-# 👋 Hi, I’m Oguzhan!
+# 👋 Hallo, ich bin Oguzhan!
+Als **Junior App Developer** konzentriere ich mich leidenschaftlich auf die Entwicklung moderner **Cross-Plattform-Anwendungen** mit **Kotlin Multiplatform (KMP)**. 
+Seit **Januar 2025** nehme ich am **Advanced Experts Program** teil, in dem ich mein Wissen gezielt vertiefe und mich intensiv mit **der plattformübergreifenden Entwicklung** beschäftige.
 
-As a Junior App Developer, I am passionate about creating modern cross-platform applications using Kotlin Multiplatform (KMP). Since January 2025, I have been participating in the Advanced Experts Program, where I have been deepening my knowledge and focusing intensively on cross-platform development.
+💡 Besonders spannend finde ich es, robuste und skalierbare Software-Architekturen zu gestalten und gemeinsame Geschäftslogik mit intuitiven Benutzeroberflächen auf **Android (Jetpack Compose)** und **iOS (SwiftUI**) zu verbinden. 
+Dabei greife ich auf ein solides technisches Fundament sowie praktische Erfahrung mit **KMP, Ktor, Koin, Coroutines und Firebase** (Firestore & Authentication) zurück.
 
-💡 I particularly enjoy designing robust and scalable software architectures and connecting shared business logic with intuitive user interfaces on Android (Jetpack Compose) and iOS (SwiftUI). I build on a solid technical foundation and practical experience with KMP, Ktor, Koin, Coroutines, and Firebase (Firestore & Authentication).
-
-✨ I learn quickly, enjoy exploring new topics, and thrive on collaborating with teams to develop effective solutions. My goal is to build apps that are not only reliable and performant but also highly user-friendly.
+✨ Ich lerne schnell, arbeite mich gerne in neue Themen ein und habe Freude daran, gemeinsam im Team Lösungen zu entwickeln. 
+Mein Ziel ist es, Apps zu realisieren, die nicht nur zuverlässig und leistungsstark sind, sondern auch durch ihre Benutzerfreundlichkeit überzeugen.
 
 ---
 
@@ -13,33 +15,33 @@ As a Junior App Developer, I am passionate about creating modern cross-platform 
 
 ---
 
-# 📄 PaperLess – NFC-Powered Document & Asset Management App
+# 📄 PaperLess – NFC-gestützte Dokumenten- & Asset-Management-App
 
-**My current project:**  
-PaperLess is a modern app for managing documents and assets, developed with **Kotlin Multiplatform (KMP)**.
+**Mein aktuelles Projekt:**  
+PaperLess ist eine moderne App zur Verwaltung von Dokumenten und Gegenständen, entwickelt mit **Kotlin Multiplatform (KMP)**.  
 
-## 🌐 Cross-Platform
-Shared business logic for **Android & iOS**
+## 🌐 Cross-Plattform
+Gemeinsame Geschäftslogik für **Android & iOS**
 
-## 🛠️ Tech Stack
+## 🛠️ Tech-Stack
 KMP · Ktor · Koin · Coroutines · SwiftUI · Jetpack Compose · Firebase (Firestore & Authentication)
 
-## 🎯 Goal
-PaperLess enables users to **efficiently manage documents and assets**.  
-Key features include:
+## 🎯 Ziel
+PaperLess ermöglicht Nutzern eine **effiziente Verwaltung von Dokumenten und Gegenständen**.  
+Funktionen im Überblick:  
 
-- **Document Management:**  
-  - Create **folders** with a clear structure  
-  - Store **PDFs, photos, videos, and text**  
-  - Convert photos from the gallery into PDFs  
+- **Dokumentenmanagement:**  
+  - Erstellen von **Ordnern** mit klarer Struktur  
+  - Speichern von **PDFs, Fotos, Videos und Texten**  
+  - Umwandeln von Fotos aus der Galerie in PDFs  
 
-- **NFC-Based Asset Management:**  
-  - **Assign, track, and manage** items using NFC tags  
-  - Quickly open or locate assets through NFC detection  
-  - Ideal for vehicles, tools, keys, or other assets  
-  - **Intuitive Operation:** All actions are performed directly in the app, without complicated steps  
+- **NFC-gestützte Gegenstandsverwaltung:**  
+  - **Zuordnung, Verfolgung und Verwaltung** von Gegenständen über NFC-Tags  
+  - Schnelles Öffnen oder Finden von Gegenständen durch NFC-Erkennung  
+  - Ideal für Fahrzeuge, Werkzeuge, Schlüssel oder andere Assets  
+  - **Intuitive Bedienung:** Alle Aktionen direkt in der App, ohne komplizierte Schritte  
 
-PaperLess combines **digital document management** with **NFC-based asset tracking** in a single app for maximum efficiency.
+PaperLess kombiniert **digitale Dokumentenverwaltung** und **NFC-basierte Asset-Tracking-Funktionalität** in einer App für maximale Effizienz.
 
 
 ---
